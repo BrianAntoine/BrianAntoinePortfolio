@@ -254,7 +254,7 @@ box-shadow: 0 0 50px var(--main-color);
 @keyframes words{
     0%,
     20%{
-        content: "Product Designer";
+        content: "Product Manager";
     }
     21%,
     40%{
@@ -262,15 +262,15 @@ box-shadow: 0 0 50px var(--main-color);
     }
     41%,
     60%{
-        content: "Product Manager";
+        content: "Product Designer";
     }
     61%,
     80%{
-        content: "Web Developer";
+        content: "Data Analyst";
     }
     81%,
     100%{
-        content: "Software Developer";
+        content: "Cloud Engineer";
     }
 
 }
